@@ -1,6 +1,6 @@
 # Projeto Integrador II — UNIVESP
 
-Organização destinada ao desenvolvimento, documentação e versionamento do **Projeto Integrador II do Bacharelado em Tecnologia da Informação da UNIVESP**.
+Organização destinada ao desenvolvimento, documentação e versionamento do **Projeto Integrador II do Eixo de Computação da UNIVESP**.
 
 O projeto tem como objetivo desenvolver uma solução web utilizando tecnologias modernas de desenvolvimento de software, contemplando **framework web, banco de dados, JavaScript, APIs, computação em nuvem, acessibilidade, controle de versão e testes de software**.
 
